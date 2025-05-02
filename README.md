@@ -1,6 +1,6 @@
 Olá!
 
-Este projeto foi desenvolvido utilizando HTML e CSS, com foco em pratciar responsividade em diferentes tamanhos de tela, focando em mobile first.
+Este projeto foi desenvolvido utilizando HTML e CSS, com foco em praticar a responsividade para diferentes tamanhos de tela, seguindo a abordagem mobile first.
 
 ![alurabooks](https://github.com/user-attachments/assets/38baff25-152a-452b-acbe-178b3c766b7a) ![alurabooks-mobile-first](https://github.com/user-attachments/assets/b0dcec5e-ccc9-4ad1-8164-a747b791ed0a)
 
